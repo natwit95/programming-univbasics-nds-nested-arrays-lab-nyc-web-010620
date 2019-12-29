@@ -51,7 +51,7 @@ def matrix_lookup(matrix, row, column)
   ["Grapefruit", "Pineapple", "Oranges", "Watermelon","Eggplant"],
   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
 ]
-  matrix_lookup(produce_storage_room,[1][1])
+  produce_storage_room[row][column]
 
 end
 
