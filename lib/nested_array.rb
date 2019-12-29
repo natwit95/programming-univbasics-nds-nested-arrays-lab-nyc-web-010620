@@ -65,6 +65,6 @@ def matrix_update(matrix, row, column, new_value)
   ]
 
   matrix[0,1] = "new_value"
-  matrix
+  matrix[ORGANIC_PRODUCE,CONVENTIONAL_PRODUCE]
 
 end
