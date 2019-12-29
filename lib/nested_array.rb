@@ -65,5 +65,5 @@ def matrix_update(matrix, row, column, new_value)
   ]
   
   matrix[1][1] = "love"
-  matrix[1]
+  produce_storage_room[1]
 end
