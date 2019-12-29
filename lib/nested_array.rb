@@ -39,7 +39,7 @@ def sorted_matrix
 
 ]
 produce_storage_room[0].sort
-produce_storage_room[1].sort
+
 
 
 end
