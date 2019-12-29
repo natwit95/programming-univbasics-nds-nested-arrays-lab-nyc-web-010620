@@ -61,6 +61,6 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
 
   matrix[1][1]
-  matrix[1][1] = "Tomato"
+  matrix[1][1] = "new_value"
   matrix
 end
