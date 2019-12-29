@@ -64,7 +64,7 @@ def matrix_update(matrix, row, column, new_value)
   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
 
-  matrix[0][0] = new_value
+  matrix[row][column] = new_value
   matrix
 
 end
