@@ -65,5 +65,5 @@ def matrix_update(matrix, row, column, new_value)
   ]
 
   matrix[0][1] = new_value
-  matrix[0]
+  matrix[0..5]
 end
