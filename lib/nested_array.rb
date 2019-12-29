@@ -38,8 +38,8 @@ def sorted_matrix
   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
 
 ]
-produce_storage_room[0].sort
-produce_storage_room[1].sort
+produce_storage_room[0][1].sort
+
 end
 
 def matrix_lookup(matrix, row, column)
