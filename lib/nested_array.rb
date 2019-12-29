@@ -63,7 +63,7 @@ def matrix_update(matrix, row, column, new_value)
   ["Grapefruit", "Pineapple", "Oranges", "Watermelon","Eggplant"],
   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
-  matrix[0][1]
-  matrix[0][1] = love
+  matrix[row][column]
+  matrix[row][column] = "love"
   puts matrix
 end
