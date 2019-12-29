@@ -65,5 +65,5 @@ def matrix_update(matrix, row, column, new_value)
   ]
   matrix[0][1]
   matrix[0][1] = "hi"
-  matrix[0][1]
+  puts matrix[0][1]
 end
