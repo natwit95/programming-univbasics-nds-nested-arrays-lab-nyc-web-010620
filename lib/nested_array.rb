@@ -64,6 +64,6 @@ def matrix_update(matrix, row, column, new_value)
   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
   matrix[0][1]
-  matrix[0][1] = "hi"
+  matrix[0][1] = love
   puts matrix[0][1]
 end
